@@ -1,5 +1,7 @@
 # Coding-Questions <img align = "right" src ="https://img.shields.io/github/watchers/soh-sarkar/Coding-Questions?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/soh-sarkar/Coding-Questions?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/soh-sarkar/Coding-Questions?style=social">
 
+<img src="https://img.shields.io/github/contributors/soh-sarkar/Coding-Questions">  <img src="https://img.shields.io/tokei/lines/github/soh-sarkar/Coding-Questions">           <img src="https://img.shields.io/github/last-commit/soh-sarkar/Coding-Questions">   <img src="https://img.shields.io/github/languages/count/soh-sarkar/Coding-Questions">
+
 This Repository will house Competitive Coding and Interview Questions from different platforms such as CodeChef, LeetCode, HackerRank, HackerEarth, GeeksForGeeks. 
 
 You can contribute in different languages like C, C++, Python, Java, JS, Ruby, etc. 
