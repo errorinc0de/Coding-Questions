@@ -6,7 +6,7 @@ This Repository will house Competitive Coding and Interview Questions from diffe
 
 You can contribute in different languages like C, C++, Python, Java, JS, Ruby, etc. 
 
-If you are not adding a new problem look for the 'Miscellaneous' branch.
+If you are not adding an existing problem look for the 'Miscellaneous' branch and add your own questions!
 
 We prefer well documented code, along with a file explaining the problem well, and your Pull Requests should comply with these in-order to get merged. So, do read the [CONTRIBUTING.md](https://github.com/soh-sarkar/Coding-Questions/blob/main/CONTRIBUTING.md).
 
