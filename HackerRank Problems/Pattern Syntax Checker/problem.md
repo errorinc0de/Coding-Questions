@@ -17,13 +17,16 @@ For each test case, print Valid if the syntax of the given pattern is correct. O
 
 **Sample Input**
 
+```
 3
 ([A-Z])(.+)
 [AZ[a-z](a-z)
 batcatpat(nat
+```
 
 **Sample Output**
-
+```
 Valid
 Invalid
 Invalid
+```
