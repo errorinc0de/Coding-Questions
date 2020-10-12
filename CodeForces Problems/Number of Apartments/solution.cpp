@@ -40,7 +40,6 @@ int main()
             cout<<n/3 - 1<<" "<<1<<" "<<0<<endl;
         }else if(seven + 7 == n){
             cout<<n/3 - 2<<" "<<0<<" "<<1<<endl;
-            return;
         }else{
             //if no number
             cout<<-1<<endl;
