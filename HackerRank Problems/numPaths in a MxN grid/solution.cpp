@@ -1,4 +1,5 @@
 //numPaths in a MxN grid
+//recursive solution
 //Author: sharmila
 
 #include <cmath>
