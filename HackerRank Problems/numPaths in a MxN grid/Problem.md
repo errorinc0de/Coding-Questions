@@ -25,4 +25,4 @@ Explanation 0
 In a 3x3 grid, there are 6 possible paths, as shown in the picture below.
 
 image
-![](Screen Shot 2020-10-13 at 4.18.26 PM.png)
+![](Screen%20Shot%202020-10-13%20at%204.18.26%20PM.png)
