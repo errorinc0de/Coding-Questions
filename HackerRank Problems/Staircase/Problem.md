@@ -1,6 +1,7 @@
 **Link to Problem:** https://www.hackerrank.com/challenges/staircase/problem
 
 **Description:**
+
 Staircase detail
 
 This is a staircase of size n=4:
@@ -57,4 +58,4 @@ Print a staircase of size n using # symbols and spaces.
 
 **Explanation:**
 
-he staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n=6.
+The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n=6.
