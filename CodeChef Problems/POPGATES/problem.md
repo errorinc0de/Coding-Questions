@@ -33,15 +33,23 @@ For each test case, print a single line containing one integer ― the number of
  **Example Input:**
  
  > 3
+ 
  > 5 3
+ 
  > H T T H T
+ 
  > 7 4
+ 
  > H H T T T H H
+ 
  > 6 1
+ 
  > T H T H T T
 
  **Example Output:**
  
  > 1
+ 
  > 2
+ 
  > 2
