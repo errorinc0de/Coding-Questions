@@ -1,11 +1,9 @@
-Click Here:https://codeforces.com/contest/71/problem/A
+**Link to Problem:** https://codeforces.com/contest/71/problem/A
 
 
-												A. Way Too Long Words
-time limit per test1 second
-memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+							A. Way Too Long Words
+
+**Description:**
 
 Sometimes some words like "localization" or "internationalization" are so long that writing them many times in one text is quite tiresome.
 
@@ -17,24 +15,28 @@ Thus, "localization" will be spelt as "l10n", and "internationalization» will b
 
 You are suggested to automatize the process of changing the words with abbreviations. At that all too long words should be replaced by the abbreviation and the words that are not too long should not undergo any changes.
 
-Input
+**Input:**
+
 The first line contains an integer n (1 ≤ n ≤ 100). Each of the following n lines contains one word. All the words consist of lowercase Latin letters and possess the lengths of from 1 to 100 characters.
 
-Output
+**Output:**
+
 Print n lines. The i-th line should contain the result of replacing of the i-th word from the input data.
 
-	Examples
+**Examples:**
 
-	input
-	4
-	word
-	localization
-	internationalization
-	pneumonoultramicroscopicsilicovolcanoconiosis
-
-	Output
-
-	word
-	l10n
-	i18n
-	p43s
+- Input:
+```
+4
+word
+localization
+internationalization
+pneumonoultramicroscopicsilicovolcanoconiosis
+```
+- Output:
+```
+word
+l10n
+i18n
+p43s
+```
