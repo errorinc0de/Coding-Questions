@@ -39,13 +39,6 @@ Fork this repository -> Create the Files in the Forked Repository(Available unde
 
 ```
 
-<p>
-  <br>
-  <b>Happy Hacktober Fest 2020 🤩</b>
-  <br><br>
-  <img src="https://miro.medium.com/max/650/1*aWqwVvUIrDFdvETmhKPRzw.png">
-</p>
-
   
 
 Looking forward to your PRs!!!
