@@ -15,13 +15,13 @@ You can contribute in different languages like C, C++, Python, Java, JS, Ruby, e
 
 If you are not adding an existing problem look for the 'Miscellaneous' branch and add your own questions!
 
-We prefer well documented code, along with a file explaining the problem well, and your Pull Requests should comply with these in-order to get merged. So, do read the [CONTRIBUTING.md](https://github.com/soh-sarkar/Coding-Questions/blob/main/CONTRIBUTING.md).
+We prefer well documented code, along with a file explaining the problem well, and your Pull Requests should comply with these in-order to get merged. So, do read the [CONTRIBUTING.md](https://github.com/errorinc0de/Coding-Questions/blob/main/CONTRIBUTING.md).
 
-Also read, [CODE OF CONDUCT](https://github.com/soh-sarkar/Coding-Questions/blob/main/CODE_OF_CONDUCT.md).
+Also read, [CODE OF CONDUCT](https://github.com/errorinc0de/Coding-Questions/blob/main/CODE_OF_CONDUCT.md).
 
 **Fork this repository and clone on your local machine**
 ```
-git clone https://github.com/soh-sarkar/Coding-Questions.git
+git clone https://github.com/errorinc0de/Coding-Questions.git
 ```
 
 **Create a branch**  
