@@ -4,9 +4,9 @@
 
 <p>
   <br>
-  <b> Hacktober Fest 2021 is coming soon! 🤩</b>
+  <b> Happy Hacktober Fest 2021 Devs! 🤩</b>
   <br><br>
-  <img src="https://hacktoberfest.digitalocean.com/twitter-card.png">
+  <img src="https://raw.githubusercontent.com/errorinc0de/Coding-Questions/hacktoberfest-assets/hacktoberfest.png">
 </p>
 
 This Repository will house Competitive Coding and Interview Questions from different platforms such as CodeChef, LeetCode, HackerRank, HackerEarth, GeeksForGeeks. 
