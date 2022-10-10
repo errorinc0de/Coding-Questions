@@ -1,6 +1,6 @@
 # Coding-Questions <img align = "right" src ="https://img.shields.io/github/watchers/errorinc0de/Coding-Questions?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/errorinc0de/Coding-Questions?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/errorinc0de/Coding-Questions?style=social">
 
-<img src="https://img.shields.io/github/contributors/errorinc0de/Coding-Questions">  <img src="https://img.shields.io/tokei/lines/github/errorinc0de/Coding-Questions">           <img src="https://img.shields.io/github/last-commit/errorinc0de/Coding-Questions">   <img src="https://img.shields.io/github/languages/count/errorinc0de/Coding-Questions">
+<img src="https://img.shields.io/github/contributors/errorinc0de/Coding-Questions">            <img src="https://img.shields.io/github/last-commit/errorinc0de/Coding-Questions">   <img src="https://img.shields.io/github/languages/count/errorinc0de/Coding-Questions">
 
 <p>
   <br>
