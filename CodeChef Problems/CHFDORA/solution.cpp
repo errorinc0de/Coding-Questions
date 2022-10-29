@@ -35,3 +35,4 @@ int main() {
 	    cout<<k<<endl;
 	}
 	return 0;
+}
